@@ -1,3 +1,5 @@
+#binary to denary 
+#denary to binary
 binary = input ("Input a number in Binary:")
 denary = 0
 for digit in binary:
