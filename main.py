@@ -10,5 +10,3 @@ while denary>0:
   binary = str(denary%2)+ binary
   denary = denary//2
   print("Your binary number is: " +binary)
-
-  
