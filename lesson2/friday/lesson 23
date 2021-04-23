@@ -1,0 +1,8 @@
+import time
+sad=input("How are you feeling today?")
+if sad == "sad":
+ print("Do you want to hear a joke")
+ time.sleep(2)
+ print("A giraffe walked up to a bar he aske for a drink they said they can't serve him as they only serve people below six feet tall")
+else:
+  print("well go away")
