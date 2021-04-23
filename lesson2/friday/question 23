@@ -1,0 +1,7 @@
+number = int(input("Enter a number"))
+if number > 70:
+    print("above 70")
+elif number > 40:
+    print("Above 40 but less than 71")
+else:
+    print("Less than 41")
