@@ -1,0 +1,3 @@
+hobby = input("Enter a hobby")
+team = input("Enter your favourite team")
+print("Your favourite hobby is", hobby, "and your favourite team is", team)
